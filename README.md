@@ -16,6 +16,8 @@
     For Making Result "GO TO make result" and then Every Subject Teacher Will Give the Sub code and then They Have to
     Give Input according to roll number (roll number will automatically displayed) . After putting number of all subjects
     "Press 9 to make Marksheets "
+# Where I Got The Marksheet And Attendance Sheet?
+     In Main Folder
     
     
 
